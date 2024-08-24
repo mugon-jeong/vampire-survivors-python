@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (vampire-survivors-python)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f68bd0ec-12d7-476f-bc75-298d278d4116" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
